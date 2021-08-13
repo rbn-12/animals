@@ -1,4 +1,4 @@
-List of Animals + Fish :
+List of Animals + Fish + Insects:
 Animals
 1. Dog
 2. Cat
@@ -11,4 +11,7 @@ Animals
 Fish
 1. Dolphin
 2. Sharks
+
+Insects:
+1. Bees
 
