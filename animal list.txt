@@ -5,3 +5,4 @@ list of animals:
 4. Elephant
 5. Zebra
 6. Eagle
+7. Tiger
