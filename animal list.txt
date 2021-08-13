@@ -6,7 +6,9 @@ Animals
 4. Elephant
 5. Zebra
 6. Eagle
+7. Tiger
 
 Fish
 1. Dolphin
 2. Sharks
+
