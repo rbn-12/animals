@@ -1,4 +1,5 @@
-list of animals:
+List of Animals + Fish :
+Animals
 1. Dog
 2. Cat
 3. Lion
@@ -6,3 +7,8 @@ list of animals:
 5. Zebra
 6. Eagle
 7. Tiger
+
+Fish
+1. Dolphin
+2. Sharks
+
