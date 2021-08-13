@@ -2,5 +2,6 @@ list of animals:
 1. Dog
 2. Cat
 3. Lion
-4. Zebra
-5. Eagle
+4. Elephant
+5. Zebra
+6. Eagle
